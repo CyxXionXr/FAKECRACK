@@ -1,4 +1,4 @@
-# FAKECRACK.
+# FAKECRACK
 
 # Yang Belum Install
 $ apt update && apt upgrade -y
